@@ -1,4 +1,4 @@
-# 🏥 Hospital Wait Time Prediction System
+#  Hospital Wait Time Prediction System
 
 ##  Project Overview
 This project is a comprehensive data science solution designed to manage hospital appointments and predict patient wait times using machine learning. It helps improve patient experience and optimize hospital operations.
